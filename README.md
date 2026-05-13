@@ -2,11 +2,11 @@
 
 This is a small training site for practicing HTML, CSS, JavaScript, Git, GitHub, and GitHub Pages.
 
-The example site is about Cosmo, a rescue dog.
+The example site is about Cosmo, my rescue dog.
 
 ## Live site
 
-Future GitHub Pages URL: coming soon.
+Future GitHub Pages URL: https://bhurst.me/odin-training-site/
 
 ## Training notes
 
