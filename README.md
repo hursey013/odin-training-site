@@ -6,7 +6,7 @@ The example site is about Cosmo, my rescue dog.
 
 ## Live site
 
-Future GitHub Pages URL: https://bhurst.me/odin-training-site/
+GitHub Pages URL: https://bhurst.me/odin-training-site/
 
 ## Training notes
 
