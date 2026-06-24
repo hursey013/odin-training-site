@@ -101,6 +101,10 @@ figcaption {
 
 /* Navigation
    List items are block elements by default. Inline-block keeps them side by side. */
+.site-nav {
+  margin-bottom: 20px;
+}
+
 .site-nav ul {
   margin: 0;
   padding-left: 0;
