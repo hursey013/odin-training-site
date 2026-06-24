@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Photo placeholder for older Jack</title>
+  <desc id="desc">A simple placeholder for a future photo of Cosmo with Jack after Jack grew up.</desc>
+  <rect width="640" height="420" fill="#eef3f2" />
+  <rect x="24" y="24" width="592" height="372" fill="#ffffff" stroke="#62756f" stroke-width="4" />
+  <circle cx="245" cy="185" r="58" fill="#d7b899" />
+  <circle cx="395" cy="185" r="58" fill="#a67c52" />
+  <path d="M170 320c48-64 110-64 155 0" fill="none" stroke="#62756f" stroke-width="12" stroke-linecap="round" />
+  <path d="M315 320c48-64 110-64 155 0" fill="none" stroke="#62756f" stroke-width="12" stroke-linecap="round" />
+  <path d="M285 265h70" stroke="#62756f" stroke-width="10" stroke-linecap="round" />
+  <text x="320" y="365" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#293330">Cosmo and grown-up Jack</text>
+</svg>
