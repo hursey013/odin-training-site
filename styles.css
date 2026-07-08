@@ -100,20 +100,21 @@ figcaption {
 }
 
 /* Navigation
-   List items are block elements by default. Inline-block keeps them side by side. */
+   Flexbox keeps the links side by side and lets them wrap on small screens. */
 .site-nav {
   margin-bottom: 20px;
 }
 
 .site-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
   margin: 0;
   padding-left: 0;
   list-style: none;
 }
 
 .site-nav li {
-  display: inline-block;
-  margin-right: 12px;
   margin-bottom: 0;
 }
 
@@ -126,10 +127,29 @@ figcaption {
   background-color: #ffffff;
 }
 
+.flex-cards,
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 32px 0;
+}
+
+.flex-cards .content-card,
+.photo-gallery figure {
+  flex: 1 1 280px;
+  margin: 0;
+}
+
 .content-card h2 {
   margin-top: 0;
 }
 
 .content-card p:last-child {
+  margin-bottom: 0;
+}
+
+.content-card ul,
+.content-card ol {
   margin-bottom: 0;
 }
